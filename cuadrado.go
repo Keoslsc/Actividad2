@@ -12,4 +12,5 @@ func main() {
 	fmt.Scan(&lado)
 	area = lado * lado
 	fmt.Printf("El area del cuadrado es: %.2f.", area)
+	fmt.Printf("Fin")
 }
